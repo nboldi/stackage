@@ -2536,6 +2536,18 @@ packages:
     
     "Alexis Williams <sasinestro@gmail.com> @sasinestro":
         - stb-image-redux
+        
+    "Boldizsár Németh <nboldi@elte.hu> @nboldi":
+        - instance-control
+        - references
+        - haskell-tools-ast
+        - haskell-tools-ast-fromghc
+        - haskell-tools-prettyprint
+        - haskell-tools-ast-trf
+        - haskell-tools-ast-gen
+        - haskell-tools-refactor
+        - haskell-tools-demo
+        - haskell-tools-cli
 
     # If you stop maintaining a package you can move it here.
     # It will then be disabled if it starts causing problems.
